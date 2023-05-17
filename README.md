@@ -1,4 +1,3 @@
-# ReactJS-Projects
 
 | Project Name  | Directory Link | Live Link |
 | ------------- | ------------- | ------------- |
